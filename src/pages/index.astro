@@ -17,7 +17,19 @@ const projects = (await getCollection("projects"))
 
   const stacks = [
     {
-      icon: "javascript",
+    text: "Javascript", 
+    icon: "javascript", 
+    href: "https://www.javascript.com" 
+
+    },
+
+    {
+      icon: "laravel",
+
+    },
+
+    {
+      icon: "html",
 
     }
   ]
@@ -86,11 +98,11 @@ const stack = [
             Actuellement étudiant en BTS SIO
           </p>
           <div id="ctaButtons" class='animated flex flex-wrap gap-4 justify-center mt-5'>
-            <a href='/blog' class='py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base bg-black dark:bg-white text-white dark:text-black hover:opacity-75 blend'>
-              Read my blog
+            <a href='/images/Alternance.pdf' download class='py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base bg-black dark:bg-white text-white dark:text-black hover:opacity-75 blend'>
+              Mon CV
             </a>
             <a href='/work' class='py-2 px-4 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
-              View my work
+              Bio
             </a>
           </div>
         </div>
@@ -112,7 +124,15 @@ const stack = [
 
       <!-- Compétences -->
       <section class="animate">
-
+        <div class="space-y-4">
+          <p class="font-semibold text-black dark:text-white">Mes compétences</p>
+          <div class="flex space-x-4">
+            <img src="images\stacks\logo_html.svg" alt="HTML Logo">
+            <img src="images/logo_css.svg" alt="CSS Logo">
+            <img src="images/logo_javascript.svg" alt="JavaScript Logo">
+            <!-- Ajoutez d'autres logos ici -->
+          </div>
+        </div>
       </section>
 
      

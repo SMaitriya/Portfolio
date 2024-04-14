@@ -20,6 +20,9 @@ J'ai choisi d'utiliser Laravel pour le backend et React pour le frontend. Après
 
 - Connexion via Breeze : Mise en place d'une connexion sécurisée et fluide pour les utilisateurs avec Breeze.
 
+![connexion](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetmarket/connexion.png)
+
+
 - Publication de biens par catégorie : Développement d'une fonctionnalité permettant aux utilisateurs de poster des biens par catégorie de produit.
 
 - Validation des produits : Intégration de mécanismes de validation solides pour assurer la qualité des produits soumis.
