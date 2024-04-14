@@ -6,7 +6,7 @@ draft: false
 tags:
 - React
 - Javascript
-- PHP
+- Php
 - Laravel
 
 repoUrl: https://github.com/SMaitriya/MarketPlace
