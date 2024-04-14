@@ -116,51 +116,41 @@ const stack = [
       <!-- About Section -->
       <section class="animate">
         <article>
-        
             <p>Étudiant en BTS SIO option SLAM, je suis passionné par le développement web et à la recherche d'une alternance en développement web pour ma licence professionnelle à la Sorbonne.</p>
-     
         </article>
       </section>
 
-      <!-- Compétences -->
-      <section class="animate">
-        <div class="space-y-4">
-          <p class="font-semibold text-black dark:text-white">Mes compétences</p>
-          <div class="flex space-x-4">
-            <img src="images\stacks\logo_html.svg" alt="HTML Logo">
-            <img src="images/logo_css.svg" alt="CSS Logo">
-            <img src="images/logo_javascript.svg" alt="JavaScript Logo">
-            <!-- Ajoutez d'autres logos ici -->
-          </div>
-        </div>
-      </section>
+<!-- Compétences -->
+<section class="animate">
+  <div class="space-y-4">
+    <h1 style="font-weight: bold; font-size: 40px;">Mes compétences</h1>
+    <div class="flex space-x-4">
+      <!-- HTML5 icon -->
+      <img width="100" height="50" src="https://img.icons8.com/color/480/html-5--v1.png" alt="HTML5"/>
+      <!-- CSS3 icon -->
+      <img width="100" height="50" src="https://img.icons8.com/stickers/100/css3.png" alt="CSS3"/>
+      <!-- JavaScript icon -->
+      <img width="100" height="50" src="https://img.icons8.com/fluency/240/javascript.png" alt="JavaScript"/>
+      <!-- PHP icon -->
+      <img width="100" height="50" src="https://img.icons8.com/offices/480/php-logo.png" alt="PHP"/>
+      <!-- C# icon -->
+      <img width="100" height="50" src="https://img.icons8.com/color/480/c-sharp-logo-2.png" alt="C#"/>
+    </div>
+    <div class="flex space-x-4">
+      <!-- Laravel icon -->
+      <img width="100" height="50" src="https://img.icons8.com/nolan/64/laravel.png" alt="Laravel"/>
+      <!-- React icon -->
+      <img width="100" height="50" src="https://img.icons8.com/officexs/480/react.png" alt="React"/>
+    </div>
+  </div>
+</section>
+
+</section>
+
+
 
      
-      <!-- Tech Stack Section -->
-      <section class="animate">
-        <div class="space-y-4">
-          <p class="font-semibold text-black dark:text-white">
-            Site construit avec
-          </p>
-          <div class="flex flex-wrap items-center gap-2 mt-5">
-            {stack.map(item => (
-              <StackCard 
-                text={item.text}
-                icon={item.icon}
-                href={item.href}
-              />
-            ))}
-          </div>
-          <div>
-            Performing reactivity and statefulness, special guest
-            <a href="https://www.solidjs.com/" target="_blank" class="w-fit group underline decoration-[.5px] decoration-black/25 dark:decoration-white/50 hover:decoration-black dark:hover:decoration-white text-black dark:text-white underline-offset-2 blend">
-              <span class="text-black/75 dark:text-white/75 group-hover:text-black group-hover:dark:text-white blend">
-                SolidJS
-              </span>
-            </a>
-          </div>
-        </div>
-      </section>
+ 
 
       <!-- Project Preview Section -->
       <section class="animate">
@@ -189,10 +179,10 @@ const stack = [
       <section class="animate">
         <div>
           <p class="font-semibold text-black dark:text-white">
-            Let's Connect
+            Contact
           </p>
           <p>
-            Reach out to me via email or on social media.
+            Envoyez moi un message via email ou dans les réseaux sociaux
           </p>
           <div class="grid grid-cols-4 gap-y-2 mt-4 auto-cols-min">
             {SOCIALS.map(social => (
@@ -211,6 +201,25 @@ const stack = [
             ))}
         </div>
       </section>
+           <!-- Tech Stack Section -->
+           <section class="animate">
+            <div class="space-y-4">
+              <p class="font-semibold text-black dark:text-white">
+                Site construit avec
+              </p>
+              <div class="flex flex-wrap items-center gap-2 mt-5">
+                {stack.map(item => (
+                  <StackCard 
+                    text={item.text}
+                    icon={item.icon}
+                    href={item.href}
+                  />
+                ))}
+              </div>
+            
     </div>
   </div>
+
+
+  
 </PageLayout>
