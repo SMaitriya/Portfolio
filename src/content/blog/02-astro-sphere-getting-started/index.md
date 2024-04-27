@@ -56,6 +56,16 @@ export const WORK: Page = {
   TITLE: "Work",
   DESCRIPTION: "Places I have worked.",
 }
+
+export const STAGE: Page = {
+  TITLE: "Stage",
+  DESCRIPTION: "Places I have worked.",
+}
+
+export const FORMATION: Page = {
+  TITLE: "Formation",
+  DESCRIPTION: "Places I have worked.",
+}
 ```
 
 The links that are displayed in the header and drawer
@@ -63,7 +73,9 @@ The links that are displayed in the header and drawer
 ```js
 export const LINKS: Links = [
   { HREF: "/", TEXT: "Home" },
+  { HREF: "/formation", TEXT: "formation" },
   { HREF: "/work", TEXT: "Work" },
+  { HREF: "/stage", TEXT: "Stage" },
   { HREF: "/blog", TEXT: "Blog" },
   { HREF: "/projects", TEXT: "Projects" },
 ]

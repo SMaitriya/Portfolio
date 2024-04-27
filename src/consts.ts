@@ -7,10 +7,25 @@ export const SITE: Site = {
   AUTHOR: "Mark Horn",
 }
 
+
+// Degree Page
+export const FORMATION: Page = {
+  TITLE: "Mes formations",
+  DESCRIPTION: "mes formations",
+}
+
+
+
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
+  TITLE: "Expérience professionnelle",
   DESCRIPTION: "Places I have worked.",
+}
+
+// Stage Page
+export const STAGE: Page = {
+  TITLE: "Stage",
+  DESCRIPTION: "mes stages",
 }
 
 // Blog Page
@@ -33,39 +48,48 @@ export const SEARCH: Page = {
 
 // Links
 export const LINKS: Links = [
-  { 
-    TEXT: "Accueil", 
-    HREF: "/", 
+  {
+    TEXT: "Accueil",
+    HREF: "/",
   },
-  { 
-    TEXT: "Experience pro", 
-    HREF: "/work", 
+  {
+    TEXT: "Formations",
+    HREF: "/formation",
   },
-  { 
-    TEXT: "Blog", 
-    HREF: "/blog", 
+  {
+    TEXT: "Experience",
+    HREF: "/work",
   },
-  { 
-    TEXT: "Projets", 
-    HREF: "/projects", 
+  {
+    TEXT: "Stages",
+    HREF: "/stage",
+  },
+
+  {
+    TEXT: "Blog",
+    HREF: "/blog",
+  },
+  {
+    TEXT: "Projets",
+    HREF: "/projects",
   },
 ]
 
 // Socials
 export const SOCIALS: Socials = [
-  { 
+  {
     NAME: "Email",
-    ICON: "email", 
+    ICON: "email",
     TEXT: "maitriya@outlook.fr",
     HREF: "mailto:maitriya@outlook.fr",
   },
-  { 
+  {
     NAME: "Github",
     ICON: "github",
     TEXT: "SMaitriya",
     HREF: "https://github.com/SMaitriya"
   },
-  { 
+  {
     NAME: "LinkedIn",
     ICON: "linkedin",
     TEXT: "maitriya-sramaner",
