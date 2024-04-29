@@ -5,11 +5,13 @@ dateStart: "09-01-2023"
 dateEnd: "06-01-2024"
 ---
 
-J'ai travaillé dans une boîte de nuit au cœur de la ville. Cette expérience m'a permis de plonger dans la vie nocturne animée de la capitale britannique et de développer des compétences précieuses en gestion d'événements, en communication et en résolution de problèmes dans des situations à haut niveau d'énergie. Cela m'a également offert une immersion enrichissante dans la culture sociale et professionnelle de Londres, renforçant ainsi ma capacité à m'adapter à des environnements divers et dynamiques.
+<br>
+Actuellement en BTS informatique option SLAM, je profite d'une formation enrichissante et intense. Alors que le cursus habituel s'étale sur deux ans, j'ai la chance de pouvoir le compléter en seulement un an grâce au GRETA. Cette possibilité exige une grande motivation et une passion débordante, des traits que j'ai su mettre en avant, comme en témoigne ma moyenne de 16,50 au premier semestre
 
-- Vérifier le stock et réapprovisionner
-- Prise en charge des demandes clients – Paiement & Conseil
-- Travailler en équipe
-- Fournir le meilleur service client en conformité avec les normes de Notting Hill Arts Club
+
+- Support et mise à disposition de services informatiques
+- Solutions logicielles et applications métiers
+- Cybersécurité
+
 
 
