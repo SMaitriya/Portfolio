@@ -76,7 +76,7 @@ export const LINKS: Links = [
   { HREF: "/formation", TEXT: "formation" },
   { HREF: "/work", TEXT: "Work" },
   { HREF: "/stage", TEXT: "Stage" },
-  { HREF: "/blog", TEXT: "Blog" },
+  { HREF: "/blog", TEXT: "Veille" },
   { HREF: "/projects", TEXT: "Projects" },
 ]
 ```

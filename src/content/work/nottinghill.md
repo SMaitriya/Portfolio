@@ -1,10 +1,10 @@
 ---
-company: "Notting Hill Arts Club"
-role: "Barman, Bar-back"
+company: "Barman, Bar-back"
+role: "Notting Hill Arts Club"
 dateStart: "01-01-2021"
 dateEnd: "08-01-2021"
 ---
-
+<br>
 J'ai travaillé dans une boîte de nuit au cœur de la ville. Cette expérience m'a permis de plonger dans la vie nocturne animée de la capitale britannique et de développer des compétences précieuses en gestion d'événements, en communication et en résolution de problèmes dans des situations à haut niveau d'énergie. Cela m'a également offert une immersion enrichissante dans la culture sociale et professionnelle de Londres, renforçant ainsi ma capacité à m'adapter à des environnements divers et dynamiques.
 
 - Vérifier le stock et réapprovisionner

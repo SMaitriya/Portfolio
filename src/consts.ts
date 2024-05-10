@@ -14,12 +14,16 @@ export const FORMATION: Page = {
   DESCRIPTION: "mes formations",
 }
 
-
-
 // Work Page
 export const WORK: Page = {
   TITLE: "Expérience professionnelle",
   DESCRIPTION: "Places I have worked.",
+}
+
+// Blog Page
+export const BLOG: Page = {
+  TITLE: "Blog",
+  DESCRIPTION: "Writing on topics I am passionate about.",
 }
 
 // Stage Page
@@ -28,11 +32,7 @@ export const STAGE: Page = {
   DESCRIPTION: "mes stages",
 }
 
-// Blog Page
-export const BLOG: Page = {
-  TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
-}
+
 
 // Projects Page 
 export const PROJECTS: Page = {
@@ -64,14 +64,13 @@ export const LINKS: Links = [
     TEXT: "Stages",
     HREF: "/stage",
   },
-
-  {
-    TEXT: "Blog",
-    HREF: "/blog",
-  },
   {
     TEXT: "Projets",
     HREF: "/projects",
+  },
+  {
+    TEXT: "Veille",
+    HREF: "/blog",
   },
 ]
 
