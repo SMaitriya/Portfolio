@@ -1,14 +1,34 @@
 ---
-title: "Chatbox"
-summary: "Faire un minichatbox sur Laravel"
-date: "Feb 14 2024"
+title: "Dictionnaire de pays/villes"
+summary: "Gestion d'un dictionnaire des noms des pays et de leurs villes"
+date: "nov 25 2023"
 draft: false
 tags:
-- Php
-- Laravel
-- Html
+- C#
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Ce projet propose un gestionnaire de dictionnaire de données permettant de gérer les pays et leurs capitales de manière efficace et conviviale. L'interface offre une gamme de fonctionnalités permettant d'ajouter, de modifier, de supprimer, de trier et de rechercher des informations par nom de ville ou par nom de pays.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+
+- Création d'une interface
+
+
+
+
+- Exemple d'alimentation du dictionnaire d'un pays avec sa ville et affichage (choix 2) :
+
+
+
+
+- Vérifier le pays d'une ville en indiquant sa ville (choix 6) :
+
+
+- Trier le dictionnaire par ville ou par pays :
+
+
+- Code pour l'interface du menu
+
+
+- Code pour les différents choix faits par des case :
+
