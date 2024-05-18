@@ -36,7 +36,7 @@ export const STAGE: Page = {
 
 // Projects Page 
 export const PROJECTS: Page = {
-  TITLE: "Projects",
+  TITLE: "Project",
   DESCRIPTION: "Recent projects I have worked on.",
 }
 
