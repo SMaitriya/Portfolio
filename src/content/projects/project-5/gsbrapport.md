@@ -34,8 +34,26 @@ Le projet consiste à développer une application de gestion des médicaments po
 
 
 <br>
-<h1 style="text-align: center;">LE CODE</h1>
+<h1 style="text-align: center;">LE CODE (Exemple ajout médicament)</h1>
 <br>
+
+- Création du Xaml pour l'ajout d'un médicament
+
+
+- On recherche dans une liste déroulante la famille du médicament à ajouter
+
+![Code Selection](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbrapportprojet/codeselection.png)
+
+- Une fois la famille du médicament selectionner on peut une fois qu'on a ajouter les informations du médicament et cliqué sur validé créer un nouveau medicament avec ce code
+
+![Code Ajout](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbrapportprojet/codeajout.png)
+
+
+
+
+
+
+
 
 
 
