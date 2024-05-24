@@ -7,9 +7,20 @@ dateEnd: "11/27/2022"
 
 <br>
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/autresprojet/sorbonne.png" alt="Image Sorbonne" width="300">
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/autresprojet/renmin.png" alt="Image Renmin" width="400"> 
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/autresprojet/sorbonne.png" alt="Image Sorbonne" width="300">
+    </div>
+</div>
 
 
-Grâce à mes trois années d'études en LEA, ainsi qu'à un semestre d'échange à l'Université de Renmin en Chine, j'ai pu acquérir une connaissance approfondie de deux langues ainsi que de leur histoire. Ces expériences m'ont également permis de développer des compétences solides en économie, gestion et droit, notamment en matière de compréhension et d'analyse.
-- Anglais / Chinois 
-- Gestion, Economie, Droit
+
+
+
+Grâce à mes trois années d'études en LEA, ainsi qu'à un semestre d'échange à l'Université de Renmin en Chine, j'ai pu acquérir une connaissance approfondie de deux langues ainsi que de leur histoire. Ces expériences m'ont également permis de développer des compétences solides en économie, gestion et droit, notamment en matière de compréhension et d'analyse. De plus, lors de mon semestre en Chine à Suzhou à l'Université de Renmin, j'ai eu l'opportunité de suivre des cours avec des étudiants en master français ainsi que des étudiants chinois, ce qui m'a offert une expérience interculturelle enrichissante.
+
+- Anglais / Chinois / Histoire
+- Gestion, Economie, Droit, Marketing
