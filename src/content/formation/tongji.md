@@ -7,7 +7,7 @@ dateEnd: "06-010-2015"
 
 <br>
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/autresprojet/tongji.png" alt="Image Tongji" width="300">
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/formation/tongji.png" alt="Image Tongji" width="300">
 
 
 

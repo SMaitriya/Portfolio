@@ -1,6 +1,6 @@
 ---
 company: "Licence Langues Etrangères Appliquées Anglais/Chinois"
-role: "Sorbonne Université"
+role: "Sorbonne Université / Renmin University"
 dateStart: "01/01/2020"
 dateEnd: "11/27/2022"
 ---
@@ -9,10 +9,10 @@ dateEnd: "11/27/2022"
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        <img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/autresprojet/renmin.png" alt="Image Renmin" width="400"> 
+        <img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/formation/renmin.png" alt="Image Renmin" width="300"> 
     </div>
     <div>
-        <img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/autresprojet/sorbonne.png" alt="Image Sorbonne" width="300">
+        <img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/formation/sorbonne.png" alt="Image Sorbonne" width="200">
     </div>
 </div>
 

@@ -7,7 +7,7 @@ dateEnd: "09/02/2025"
 
 <br>
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/autresprojet/sorbonne2.png" alt="Image Sorbonne" width="300">
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/formation/sorbonne2.png" alt="Image Sorbonne" width="200">
 
 
 
