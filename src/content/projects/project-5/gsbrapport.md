@@ -8,11 +8,35 @@ tags:
 ---
 
 Le projet consiste à développer une application de gestion des médicaments pour un laboratoire pharmaceutique. Cette application, principalement réalisée en C# avec une base de données MySQL, permettra d'ajouter, de modifier et de rechercher des médicaments de manière sécurisée et efficace. Nous intégrerons également une API REST en PHP pour faciliter l'interaction avec la base de données.
+<br>
 
-- Après connexion, création d'un onglet médicament pour voir , modifier ajouter et rechercher pas dates ces medicaments 
+- Après l'authentification, l'utilisateur pourra accéder à un onglet dédié aux médicaments. Cet onglet permettra de visualiser, modifier, ajouter et rechercher les médicaments en fonction de leurs dates.
 
-- Exemple possibilité de modifier les informations du médicament après avoir choisi la famille du médicament
+![Projet 2](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbrapportprojet/projet2.png)
 
-- Gestion des erreurs avec du REGEX (ici pour ajouter un medicament)
 
-- Recherche de médicament par date
+- Une fonctionnalité clé est la possibilité de modifier les informations d'un médicament après avoir sélectionné sa famille.
+
+![Modifier](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbrapportprojet/modifier.png)
+
+
+
+- Le projet prend également en charge la gestion des erreurs grâce à l'utilisation de expressions régulières (REGEX), comme illustré ici lors de l'ajout d'un médicament.
+
+![Projet 13](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbrapportprojet/projet13.png)
+
+
+
+
+- Enfin, une fonctionnalité de recherche permettra de retrouver des médicaments en fonction de leur date.
+
+![Rechercher](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbrapportprojet/rechercher.png)
+
+
+<br>
+<h1 style="text-align: center;">LE CODE</h1>
+<br>
+
+
+
+
