@@ -10,9 +10,9 @@ tags:
 - HTML
 ---
 
-Dans le cadre d'un projet visant à standardiser la gestion des frais des visiteurs au sein d'un laboratoire, j'ai contribué en développant une extension spécifique pour les comptables. Initialement, le suivi des dépenses était géré de manière disparate selon les différentes origines des visiteurs. Pour répondre à ce besoin d'harmonisation, j'ai conçu une extension qui s'intègre au site existant. Cette extension offre aux comptables une plateforme dédiée où ils peuvent centraliser toutes les opérations relatives aux frais des visiteurs. Ils peuvent ainsi recevoir les demandes de remboursement, les valider, gérer les paiements et suivre les remboursements effectués. Cette extension vient enrichir les fonctionnalités du site initial en offrant aux comptables un outil spécifique pour une gestion optimisée des dépenses, garantissant ainsi une meilleure efficacité dans la gestion financière du laboratoire
+J'ai conçu une extension spécifique pour les comptables dans le cadre du projet de standardisation des frais des visiteurs au sein du laboratoire. Cette extension, intégrée au site existant, offre une plateforme dédiée permettant aux comptables de centraliser et de gérer toutes les opérations liées aux frais des visiteurs. Cela optimise la gestion financière du laboratoire et améliore l'efficacité du processus global de gestion des dépenses
 
-
+<br>
 
 - Recherche des frais validés par le visiteur : J'ai développé des fonctions spécifiques permettant aux comptables de rechercher et d'accéder facilement aux frais que les visiteurs ont validés
 
@@ -33,6 +33,45 @@ Dans le cadre d'un projet visant à standardiser la gestion des frais des visite
 - Affichage des frais validés par le comptable avec recherche par mois avec exportation PDF: J'ai développé une fonctionnalité permettant aux comptables de visualiser tous les frais validés, en leur offrant la possibilité de filtrer les résultats par mois. Cela leur permet d'avoir une vue d'ensemble des dépenses du laboratoire sur une période donnée
 
 ![Projet Application Frais](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbfraisprojet/projet9.png)
+
+
+<br>
+<h1 style="text-align: center;">LE CODE (Utilisation de model MVC )</h1>
+<br>
+
+
+- Exemple d'une vue pour afficher la page de sélection du visiteur à choisir 
+
+![Exemple de code Vue](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbfraisprojet/codevue.png)
+
+
+
+
+
+
+- Exemple de routes pour naviguer entre les liens
+
+![Exemple de code Route](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbfraisprojet/coderoute.png)
+
+
+
+
+
+
+- Exemple du controlleur qui permet ici d'afficher les fiches frais saisie par les visiteurs
+
+![Exemple de code Controller](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbfraisprojet/codecontroller.png)
+
+
+
+
+
+
+- Voici un exemple de code utilisant le fichier PDO pour mettre à jour une fiche de frais. Ce code modifie la date de modification et calcule les frais pour un visiteur donné
+
+![Exemple de code de fonction](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/gsbfraisprojet/codefonction.png)
+
+
 
 
 
