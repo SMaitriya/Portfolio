@@ -6,6 +6,13 @@ dateEnd: "09/02/2025"
 ---
 
 <br>
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/autresprojet/sorbonne2.png" alt="Image Sorbonne" width="300">
+
+
+
+
+
 Inscrit dans la licence professionnelle à  Sorbonne Université pour mon alternance, elle me permettra d'améliorer mes compétences et de progresser dans ma carrière de développeur full stack.
 
 - Intégration et Développement Front
