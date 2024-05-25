@@ -1,12 +1,16 @@
 ---
-title: "GSB rapport"
-summary: "Projet de classe, utilisation d'une API Rest en C#"
-date: "May 20 2024"
+title: "SENDER CHIRPER"
+summary: "Bootcamp Laravel, création d'un mini chat en Laravel/React avec Inertia"
+date: "Feb 03 2024"
 draft: false
 tags:
-- C#
+- Laravel
+- PHP
+- React
+- Javascript
 
-repoUrl : https://github.com/SMaitriya/GsbRapports
+
+repoUrl : https://github.com/SMaitriya/LARAVEL-REACT-SENDER-CHAT
 ---
 
 Le projet consiste à développer une application de gestion des médicaments pour un laboratoire pharmaceutique. Cette application, principalement réalisée en C# avec une base de données MySQL, permettra d'ajouter, de modifier et de rechercher des médicaments de manière sécurisée et efficace. Nous intégrerons également une API REST en PHP pour faciliter l'interaction avec la base de données.

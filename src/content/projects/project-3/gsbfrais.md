@@ -8,7 +8,12 @@ tags:
 - PHP
 - CSS
 - HTML
+
+repoUrl: https://github.com/SMaitriya/Gsbfrais
+
 ---
+
+
 
 J'ai conçu une extension spécifique pour les comptables dans le cadre du projet de standardisation des frais des visiteurs au sein du laboratoire. Cette extension, intégrée au site existant, offre une plateforme dédiée permettant aux comptables de centraliser et de gérer toutes les opérations liées aux frais des visiteurs. Cela optimise la gestion financière du laboratoire et améliore l'efficacité du processus global de gestion des dépenses
 

@@ -6,6 +6,7 @@ draft: false
 tags:
 - C#
 
+repoUrl : https://github.com/SMaitriya/Gestion-dictionnaire
 ---
 
 Ce projet propose un gestionnaire de dictionnaire de données en C# permettant de gérer les pays et leurs capitales de manière efficace et conviviale. L'interface offre une gamme de fonctionnalités permettant d'ajouter, de modifier, de supprimer, de trier et de rechercher des informations par nom de ville ou par nom de pays.
