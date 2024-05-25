@@ -22,7 +22,7 @@ export const WORK: Page = {
 
 // Blog Page
 export const BLOG: Page = {
-  TITLE: "Blog",
+  TITLE: "Veille technologique ",
   DESCRIPTION: "Writing on topics I am passionate about.",
 }
 
@@ -36,13 +36,13 @@ export const STAGE: Page = {
 
 // Projects Page 
 export const PROJECTS: Page = {
-  TITLE: "Project",
+  TITLE: "Projets",
   DESCRIPTION: "Recent projects I have worked on.",
 }
 
 // Search Page
 export const SEARCH: Page = {
-  TITLE: "Search",
+  TITLE: "Recherche",
   DESCRIPTION: "Search all posts and projects by keyword.",
 }
 
@@ -69,7 +69,7 @@ export const LINKS: Links = [
     HREF: "/projects",
   },
   {
-    TEXT: "Veille",
+    TEXT: "Étude",
     HREF: "/blog",
   },
 ]
