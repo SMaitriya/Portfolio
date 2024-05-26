@@ -12,8 +12,7 @@ tags:
 
 ### Actualités et News
 
-- [Feedly - Votre Plateforme de Veille Technologique](https://feedly.com/i/collection/content/user/a2a3c08a-fab3-4316-a19e-251c7ea9eeb3/category/global.all)
-  - Explorez une variété de sources d'information pour rester informé sur les dernières actualités et tendances technologiques.
+
   
 - [Frontend News](https://app.daily.dev/search?q=front+end)  
   - Recevez les dernières actualités et tendances sur le développement front-end.
