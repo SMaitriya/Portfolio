@@ -1,14 +1,15 @@
 ---
-company: "Réceptionniste"
+company: "Receptionist"
 role: "SNCF"
 dateStart: "05/02/2021"
 dateEnd: "06/31/2022"
 ---
 <br>
-J'ai occupé le poste de réceptionniste au siège Panhard de la SNCF, au sein du bureau de la direction.
+I worked as a receptionist at the Panhard headquarters of SNCF, within the executive office.
 
 
-- Accueil et gestion des clients
-- Gérer les appels téléphoniques
-- Prise de rendez-vous
-- Réception des plis et colis
+
+- Welcoming and managing clients
+- Handling phone calls
+- Scheduling appointments
+- Receiving documents and packages

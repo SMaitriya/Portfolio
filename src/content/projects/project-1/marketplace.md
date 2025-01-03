@@ -1,6 +1,6 @@
 ---
 title: "Projet Marketplace"
-summary: "Création d'un model de marketplace B to B pour mon stage"
+summary: "Creation of a B2B marketplace model for my internship"
 date: "Mar 15 2024"
 draft: false 
 tags:
@@ -12,45 +12,44 @@ tags:
 repoUrl: https://github.com/SMaitriya/MarketPlace
 ---
 
-Pendant mon stage chez Fin de Déchet, j'ai travaillé sur la création d'une Marketplace BtoB pour le secteur de la filmographie et de la télévision. Cette plateforme permet aux entreprises de partager ou de vendre des biens, réduisant ainsi le gaspillage dans l'industrie du divertissement et préservant l'environnement en favorisant la réutilisation des décors et des équipements de tournage. Notre objectif est de contribuer à rendre l'industrie du divertissement plus durable et responsable.
+During my internship at Fin de Déchet, I worked on creating a B2B marketplace for the film and television industry. This platform allows companies to share or sell goods, reducing waste in the entertainment industry and preserving the environment by promoting the reuse of sets and filming equipment. Our goal is to help make the entertainment industry more sustainable and responsible.
 
-
-
-J'ai choisi d'utiliser Laravel pour le backend et React pour le frontend. Après avoir réalisé le maquettage et établi une base de données logique, voici ce que j'ai accompli :
+I chose to use Laravel for the backend and React for the frontend. After creating mockups and establishing a logical database, here is what I accomplished:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zxslw7yDti8?" frameborder="0" allowfullscreen></iframe>
 
 
 
-- Connexion via Breeze : Mise en place d'une connexion sécurisée et fluide pour les utilisateurs avec Breeze.
+- Login via Breeze: Implemented a secure and seamless login process for users using Breeze.
+
+- Product Posting by Category: Developed a feature allowing users to post goods by product category.
+
+- Product Validation: Integrated solid validation mechanisms to ensure the quality of submitted products.
+
+- Product Homepage: Created a dynamic page displaying all available products, providing a comprehensive overview.
 
 
-- Publication de biens par catégorie : Développement d'une fonctionnalité permettant aux utilisateurs de poster des biens par catégorie de produit.
-
-- Validation des produits : Intégration de mécanismes de validation solides pour assurer la qualité des produits soumis.
-
-- Page d'accueil des produits : Création d'une page dynamique présentant tous les produits disponibles, offrant une vue d'ensemble complète.
+Here is some of the code:
 
 
-Voici quelques partie du code :
-
-![Utilisation du hook useForm pour gérer les données du formulaire](https://github.com/SMaitriya/Portfolio/raw/main/public/images/projetmarket/useform.png)
+![Using the useForm hook to manage form data](https://github.com/SMaitriya/Portfolio/raw/main/public/images/projetmarket/useform.png)
 
 
-- Utilisation  du hook useForm pour gérer les données du formulaire, les actions de soumission, le traitement en cours, la réinitialisation et les erreurs associées.
-- Utilisation du hook useEffect de React pour mettre à jour la donnée "Typeproduit" avec la valeur de selectedProductType chaque fois que cette dernière change dans le composant
+- Using the useForm hook to manage form data, submission actions, processing, reset, and associated errors.
+
+- Using the useEffect hook in React to update the "Typeproduit" data with the value of selectedProductType whenever it changes within the component.
 
 
-![Utilisation de la méthode .map()](https://github.com/SMaitriya/Portfolio/raw/main/public/images/projetmarket/map.png)
+![Using the .map() method](https://github.com/SMaitriya/Portfolio/raw/main/public/images/projetmarket/map.png)
 
-- Utilisation de la méthode .map() pour itérer sur chaque propriété propre filtrée, ce code affiche dynamiquement des champs de saisie. L'utilisation de setData permet de mettre à jour les valeurs des propriétés propres dans l'état du formulaire en fonction de la saisie de l'utilisateur, incluant une description spécifique sur le champ d'index 1 pour le produit "sols".
+- Using the .map() method to iterate over each filtered property, this code dynamically displays input fields. The use of setData allows updating the values of the properties in the form state based on the user's input, including a specific description for the field at index 1 for the "floor" product.
 
 
 
-![Utilisation de Laravel](https://github.com/SMaitriya/Portfolio/raw/main/public/images/projetmarket/laravel.png)
+![Using Laravel](https://github.com/SMaitriya/Portfolio/raw/main/public/images/projetmarket/laravel.png)
 
 
-- Extraction des offres depuis la base de données en utilisant PHP Laravel, leurs photos et propriétés de la base de données, puis les passer à la vue pour affichage.
+- Extracting offers from the database using PHP Laravel, including their photos and properties, then passing them to the view for display.
 
 
 

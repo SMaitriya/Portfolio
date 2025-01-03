@@ -10,25 +10,25 @@ export const SITE: Site = {
 
 // Degree Page
 export const FORMATION: Page = {
-  TITLE: "Mes formations",
+  TITLE: "Education",
   DESCRIPTION: "mes formations",
 }
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Expérience professionnelle",
+  TITLE: "Work experiences",
   DESCRIPTION: "Places I have worked.",
 }
 
 // Blog Page
 export const BLOG: Page = {
-  TITLE: "Veille technologique ",
+  TITLE: "Technological monitoring ",
   DESCRIPTION: "Writing on topics I am passionate about.",
 }
 
 // Stage Page
 export const STAGE: Page = {
-  TITLE: "Stage",
+  TITLE: "Internships",
   DESCRIPTION: "mes stages",
 }
 
@@ -36,40 +36,40 @@ export const STAGE: Page = {
 
 // Projects Page 
 export const PROJECTS: Page = {
-  TITLE: "Projets",
+  TITLE: "Projects",
   DESCRIPTION: "Recent projects I have worked on.",
 }
 
 // Search Page
 export const SEARCH: Page = {
-  TITLE: "Recherche",
+  TITLE: "Search",
   DESCRIPTION: "Search all posts and projects by keyword.",
 }
 
 // Links
 export const LINKS: Links = [
   {
-    TEXT: "Accueil",
+    TEXT: "Home",
     HREF: "/",
   },
   {
-    TEXT: "Formations",
+    TEXT: "Education",
     HREF: "/formation",
   },
   {
-    TEXT: "Experience",
+    TEXT: "Experiences",
     HREF: "/work",
   },
   {
-    TEXT: "Stages",
+    TEXT: "Internships",
     HREF: "/stage",
   },
   {
-    TEXT: "Projets",
+    TEXT: "Projects",
     HREF: "/projects",
   },
   {
-    TEXT: "Veille\u00A0Technologique",
+    TEXT: "Tech\u00A0monitoring",
     HREF: "/blog",
   },
 ]

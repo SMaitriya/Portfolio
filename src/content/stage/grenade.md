@@ -1,15 +1,15 @@
 ---
-company: "Développeur Wordpress"
+company: "Wordpress developper"
 role: "Association Grenade"
-dateStart: "12/01/2023"
+dateStart: "11/01/2023"
 dateEnd: "01/01/2024"
 ---
 
 <br>
-Mon premier stage en BTS informatique s'est déroulé au sein d'une association, où j'ai eu l'opportunité d'apprendre et de développer des compétences sur WordPress. Ce stage m'a permis de comprendre les processus de mise en ligne de contenu sur cette plateforme. J'ai pu acquérir une expérience pratique précieuse dans la création et la gestion de sites web, ce qui a enrichi mes compétences techniques et mon savoir-faire dans le domaine du développement web.
+My first internship (French Technical Degree in Computer Science - BTS) took place within an association, where I had the opportunity to learn and develop skills in WordPress. This internship allowed me to understand the processes involved in uploading content on the platform. I gained valuable hands-on experience in creating and managing websites, which enhanced my technical skills and expertise in web development.
 
-- Développement et personnalisation de sites Wordpress
-- Résolution des problèmes de plugins et de performance
-- Utilisation de Git et Gitlab
-- Optimisation de l’hébergement sur OVH
+- WordPress site development and customization
+- Troubleshooting plugin and performance issues
+- Use of Git and GitLab
+- Optimization of hosting on OVH
 

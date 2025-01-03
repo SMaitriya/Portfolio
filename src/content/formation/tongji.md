@@ -1,5 +1,5 @@
 ---
-company: "Certification de langue Chinoise"
+company: "Chinese Language Certification"
 role: "Tongji University"
 dateStart: "09-07-2013"
 dateEnd: "06-010-2015"
@@ -13,10 +13,10 @@ dateEnd: "06-010-2015"
 
 
 
-Pendant deux ans, j'ai eu l'opportunité d'étudier le mandarin à Shanghai. Cette expérience a été bien plus qu'un simple apprentissage linguistique. Vivre à l'étranger dès un jeune âge m'a permis de sortir de ma zone de confort et d'explorer le pays ainsi que sa culture de manière authentique.
+For two years, I had the opportunity to study Mandarin in Shanghai. This experience was much more than just language learning. Living abroad from a young age allowed me to step out of my comfort zone and explore the country and its culture in an authentic way.
 
-Apprendre la langue et découvrir la culture chinoise sur place a été une expérience transformative pour moi. Cela m'a non seulement permis de maîtriser une nouvelle langue, mais également de développer une compréhension profonde de la diversité et de la richesse culturelle de la Chine. Cette immersion totale m'a appris à m'adapter à différentes situations multiculturelles et à interagir efficacement dans un environnement international.
+Learning the language and discovering Chinese culture on-site was a transformative experience for me. It not only enabled me to learn a new language but also gave me a deep understanding of the diversity and cultural richness of China. This full immersion taught me to adapt to different multicultural situations and interact effectively in an international environment.
 
-- Langues Chinoises
-- Culture Chinoise
-- Expérience
+- Chinese Languages
+- Chinese Culture
+- Experience

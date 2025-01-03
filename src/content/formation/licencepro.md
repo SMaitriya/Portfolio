@@ -1,5 +1,5 @@
 ---
-company: "Licence professionnel : projet web et mobile"
+company: "Final year of Computer Science Bachelor's degree, specializing in web and mobile applications  Licence professionnel : projet web et mobile"
 role: "Sorbonne Université"
 dateStart: "09/02/2024"
 dateEnd: "09/02/2025"
@@ -12,14 +12,13 @@ dateEnd: "09/02/2025"
 
 
 
+This is my final year of my computer science bachelor's degree program at Sorbonne University, it will allow me to enhance my skills and advance my career as a full-stack developer.
 
-Inscrit dans la licence professionnelle à  Sorbonne Université pour mon alternance, elle me permettra d'améliorer mes compétences et de progresser dans ma carrière de développeur full stack.
-
-- Intégration et Développement Front
-- Outils de création graphique et d’animations
-- POO et Architecture Logicielle, Conception des Bases de données Web
-- Frameworks pour le développement Back Office
-- Réseaux et Sécurité, Système d'exploitation et Serveur Web
-- UX design, Ergonomie
-- Développement Mobile
-- Gestion du projet Web, Méthodes Agiles
+- Front-end Integration and Development
+- Graphic Design and Animation Tools
+- OOP and Software Architecture, Web Database Design
+- Frameworks for Back Office Development
+- Networks and Security, Operating Systems and Web Servers
+- UX Design, Ergonomics
+- Mobile Development
+- Web Project Management, Agile Methods

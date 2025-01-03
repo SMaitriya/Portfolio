@@ -1,5 +1,5 @@
 ---
-company: "Licence Langues Etrangères Appliquées Anglais/Chinois"
+company: "Bachelor's degree in Applied Foreign Languages (English/Chinese) -- Licence Langues Etrangères Appliquées Anglais/Chinois"
 role: "Sorbonne Université / Renmin University"
 dateStart: "01/01/2020"
 dateEnd: "11/27/2022"
@@ -19,8 +19,8 @@ dateEnd: "11/27/2022"
 
 
 
+Thanks to my three years of studies in Applied Foreign Languages (LEA), along with a semester exchange at Renmin University in China, I was able to acquire a deep understanding of two languages as well as their history. These experiences also allowed me to develop strong skills in economics, management, and law, particularly in terms of comprehension and analysis. Moreover, during my semester in Suzhou at Renmin University, I had the opportunity to attend courses with French master's students as well as Chinese students, which provided me with a valuable intercultural experience.
 
-Grâce à mes trois années d'études en LEA, ainsi qu'à un semestre d'échange à l'Université de Renmin en Chine, j'ai pu acquérir une connaissance approfondie de deux langues ainsi que de leur histoire. Ces expériences m'ont également permis de développer des compétences solides en économie, gestion et droit, notamment en matière de compréhension et d'analyse. De plus, lors de mon semestre en Chine à Suzhou à l'Université de Renmin, j'ai eu l'opportunité de suivre des cours avec des étudiants en master français ainsi que des étudiants chinois, ce qui m'a offert une expérience interculturelle enrichissante.
+- English / Chinese / History
+- Management, Economics, Law, Marketing
 
-- Anglais / Chinois / Histoire
-- Gestion, Economie, Droit, Marketing

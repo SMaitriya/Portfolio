@@ -1,20 +1,20 @@
 ---
-company: "Développeur web"
+company: "Web developper"
 role: "Fin de déchet"
 dateStart: "02/01/2024"
-dateEnd: "03/14/2024"
+dateEnd: "04/01/2024"
 ---
 
 <br>
-Pendant mon deuxième stage lors de ma formation en BTS SIO, j'ai eu l'opportunité de travailler sur la création d'une marketplace B to B pour une entreprise axée sur le développement durable des produits de films, de courts métrages et d'émissions. L'objectif était de faciliter le partage de meubles, par exemple, afin de réduire la surconsommation et les déchets.
+During my second internship as part of my French Technical Degree in Computer Science (BTS), I had the opportunity to work on creating a B2B marketplace for a company focused on sustainable development in the film, short film, and television industry. The goal was to facilitate the sharing of items, such as furniture, in order to reduce overconsumption and waste.
 
-Ce stage m'a offert l'occasion de développer mes compétences en autonomie et d'explorer de nouvelles technologies, notamment JavaScript avec le framework React. J'ai ainsi pu prendre en charge le projet de manière autonome et acquérir de nouvelles connaissances par moi-même.
+This internship allowed me to develop my skills in autonomy and explore new technologies, particularly JavaScript with the React framework. I was able to take charge of the project independently and gain new knowledge on my own.
 
-L'expérience m'a également permis de comprendre les enjeux liés au développement durable dans le domaine de l'audiovisuel et de contribuer à la mise en place de solutions innovantes pour promouvoir une consommation plus responsable.
+The experience also gave me a deeper understanding of the challenges related to sustainable development in the audiovisual sector, and I was able to contribute to the implementation of innovative solutions to promote more responsible consumption.
 
-- Maquettage du plan pour un projet de Marketplace B2B.
-- Développement du back-end en Laravel et du front-end enReact
-- Maîtrise de GitHub pour le contrôle de versions.
-- Création autonome du projet de manière intégrale, y compris la conception, le développement et les tests fonctionnels.
+- Mocking up the plan for a B2B Marketplace project.
+- Backend development in Laravel and frontend in React.
+- Mastery of GitHub for version control.
+- Complete independent creation of the project, including design, development, and functional testing.
 
 

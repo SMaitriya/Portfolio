@@ -56,7 +56,7 @@ export default function Projects({ data, tags }: Props) {
       <div class="col-span-3 sm:col-span-2">
         <div class="flex flex-col">
           <div class="text-sm uppercase mb-2">
-            EXPOSITION DE {projects().length} SUR {data.length} PROJETS
+            DISPLAY OF {projects().length} OUT OF {data.length} PROJECTS
           </div>
           <ul class="flex flex-col gap-3">
             {projects().map((project) => (

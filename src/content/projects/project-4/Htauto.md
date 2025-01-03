@@ -1,6 +1,6 @@
 ---
 title: "HTauto"
-summary: "Catalogue de voitures"
+summary: "Car Catalogue"
 date: "Oct 20 2023"
 draft: false
 tags:
@@ -9,44 +9,44 @@ tags:
 - HTML
 ---
 
-Ce projet vise à créer une application web de gestion de catalogue de voitures en utilisant la méthode MVC (Modèle-Vue-Contrôleur) en PHP. L'application permet aux utilisateurs de se connecter, de rechercher des voitures par type et par marque, et d'effectuer diverses opérations telles que l'ajout de nouveaux types/marques, la modification des voitures, et le changement de mot de passe. La gestion des erreurs est également intégrée pour assurer une expérience utilisateur fluide.
+This project aims to create a web application for managing a car catalog using the MVC (Model-View-Controller) method in PHP. The application allows users to log in, search for cars by type and brand, and perform various operations such as adding new types/brands, modifying cars, and changing their password. Error handling is also integrated to ensure a smooth user experience.
 
-- Méthode MVC
-- Ajout d'un nouveau type/marque de voiture
-- Modification CSS
-- Changement de mot de passe
-- Gestion des erreurs
+- MVC Method
+- Adding a new car type/brand
+- CSS Modifications
+- Password change
+
 
 
 ![Htauto](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projethtauto/htautoprojet.png)
 
-Fonctionnalités Détaillées :
+Detailed Features:
 
-
-- Le projet est structuré selon le modèle MVC, ce qui le rend facilement maintenable et extensible. La structure des répertoires est la suivante :
+- The project is structured according to the MVC model, making it easy to maintain and extend. The directory structure is as follows:
 
 ![MVC](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projethtauto/codemvc.png)
 
 
 
-- Un menu de navigation a été ajouté pour permettre aux utilisateurs d'accéder facilement aux fonctionnalités d'ajout de type/marque et de changement de mot de passe.
+-A navigation menu has been added to allow users to easily access the features for adding car types/brands and changing their password.
 
 ![Menu](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projethtauto/menu.png)
 
 
 
-Exemple de la vue "Ajouter une marque de voiture : 
-
-![Vue Ajout](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projethtauto/vueajout.png)
+Example of the 'Add a Car Brand' View :
 
 
-
-- Le contrôleur principal gère les différentes actions possibles en utilisant des case pour chaque fonctionnalité, comme la liste des voitures, l'ajout d'un type/marque, et le changement de mot de passe.
-
-![Case Ajout](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projethtauto/caseajout.png)
+![View Add](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projethtauto/vueajout.png)
 
 
 
-- Dans ce projet, les fonctions sont séparées dans des fichiers distincts pour assurer une structure modulaire et une maintenabilité accrue. Par exemple, une fonction spécifique a été ajoutée dans le contrôleur utilisateur pour gérer la modification du mot de passe. Cette fonctionnalité traite le formulaire de changement de mot de passe et met à jour les informations dans la base de données une fois que toutes les conditions requises sont remplies.
+- The main controller handles the different possible actions using cases for each functionality, such as the car list, adding a type/brand, and changing the password.
+
+![Case Add](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projethtauto/caseajout.png)
+
+
+
+- In this project, the functions are separated into distinct files to ensure a modular structure and improved maintainability. For example, a specific function was added in the user controller to handle password changes. This feature processes the password change form and updates the information in the database once all required conditions are met.
 
 ![Fonction Update Mot de Passe](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projethtauto/fontionupdatemdp.png)

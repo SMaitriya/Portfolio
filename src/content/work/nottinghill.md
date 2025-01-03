@@ -5,11 +5,10 @@ dateStart: "01-01-2021"
 dateEnd: "08-01-2021"
 ---
 <br>
-J'ai travaillé dans une boîte de nuit au cœur de la ville. Cette expérience m'a permis de plonger dans la vie nocturne animée de la capitale britannique et de développer des compétences précieuses en gestion d'événements, en communication et en résolution de problèmes dans des situations à haut niveau d'énergie. Cela m'a également offert une immersion enrichissante dans la culture sociale et professionnelle de Londres, renforçant ainsi ma capacité à m'adapter à des environnements divers et dynamiques.
+I worked in a nightclub at the heart of the city. This experience allowed me to dive into the vibrant nightlife of the British capital and develop valuable skills in event management, communication, and problem-solving in high-energy situations. It also provided me with an enriching immersion into London's social and professional culture, further strengthening my ability to adapt to diverse and dynamic environments.
 
-- Vérifier le stock et réapprovisionner
-- Prise en charge des demandes clients – Paiement & Conseil
-- Travailler en équipe
-- Fournir le meilleur service client en conformité avec les normes de Notting Hill Arts Club
-
+- Checking stock and restocking
+- Handling customer requests – Payment & Advice
+- Teamwork
+- Providing the best customer service in compliance with Notting Hill Arts Club standards
 
