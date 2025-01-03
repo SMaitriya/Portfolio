@@ -1,5 +1,5 @@
 ---
-company: "Final year of Computer Science Bachelor's degree, specializing in web and mobile applications  Licence professionnel : projet web et mobile"
+company: "Final year of Computer Science Bachelor's degree /  Licence professionnel : projet web et mobile"
 role: "Sorbonne Université"
 dateStart: "09/02/2024"
 dateEnd: "09/02/2025"

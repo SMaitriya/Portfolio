@@ -1,5 +1,5 @@
 ---
-title: "Veille Technologique: Cybersécurité"
+title: "Veille Technologique: Cybersecurity"
 summary: "Les dernières nouvelles et tendances en cybersécurité."
 date: "2024-05-25"
 draft: false
