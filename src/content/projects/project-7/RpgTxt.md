@@ -1,6 +1,6 @@
 ---
-title: "RPG GAME"
-summary: "Creation of a text-based RPG game with a Swing interface"
+title: "RPG GAME Swing interface"
+summary: "Creation RPG game with a Swing interface"
 date: "Dec 15 2024"
 draft: false
 tags:
@@ -10,6 +10,7 @@ tags:
 
 
 repoUrl : https://github.com/SMaitriya/SwingRpgProject
+
 ---
 
 
@@ -17,12 +18,22 @@ repoUrl : https://github.com/SMaitriya/SwingRpgProject
 
 The game begins by allowing the player to choose their character's name and select a class—Mage, Warrior, or Archer. Once the player has chosen their class, they can then purchase a starting weapon tailored to their class from a list of options.
 
+https://github.com/SMaitriya/RPG-PROJECT
+
 ![login](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rpgproject/login.png)
+![shop](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rpgproject/shop.png)
+
 
 
 After equipping their weapon, the player is placed on a game map filled with monsters, obstacles, and a shop. The player can navigate the map, encountering monsters or obstacles (such as rocks that block movement).
 
+![game](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rpgproject/game.png)
+
+
 The shop on the map allows the player to purchase new weapons with the gold they’ve accumulated. The player’s gold and inventory are updated in real-time, reflecting any purchases or changes during gameplay.
+
+![game](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rpgproject/shopgame.png)
+
 
 The game continues as the player explores the map and tries to reach the exit. If the player successfully reaches the exit, they win the game.
 
