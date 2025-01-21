@@ -56,10 +56,6 @@ export const LINKS: Links = [
     TEXT: "Education",
     HREF: "/formation",
   },
-  /*{
-    TEXT: "Experiences",
-    HREF: "/work",
-  },*/
   {
     TEXT: "Experiences",
     HREF: "/stage",
