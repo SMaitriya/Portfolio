@@ -1,6 +1,6 @@
 ---
 title: "Space Invader"
-summary: "Making a short Space Invader game with JAVA (JOGL)"
+summary: "Space Invader game with JAVA (JOGL)"
 date: "Jan 02 2025"
 draft: false
 tags:
@@ -14,7 +14,7 @@ repoUrl : https://github.com/SMaitriya/Space-Invader
 
 ---
 
-- Game Overview:
+## Game Overview:
 
 This project is a Java-based Space Invader game built with the JOGL (Java OpenGL) library. The player controls a spaceship at the bottom of the screen and must destroy waves of descending alien monsters. The goal is to eliminate all the monsters before they reach the spaceship. If all monsters are destroyed, the player wins and is directed to a victory screen. However, if any monster reaches the spaceship, it results in a "You Lose" screen.
 
