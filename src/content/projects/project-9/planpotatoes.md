@@ -1,7 +1,7 @@
 ---
 title: "Chore Planning System"
 summary: "A PHP MVC-based chore planning application with MongoDB Atlas integration"
-date: "Jan 02 2025"
+date: "Jan 19 2025"
 draft: false
 tags:
 - PHP
@@ -29,7 +29,7 @@ A detailed weekly schedule for the chosen year is displayed, showing the individ
 
 At the bottom of the page, yearly statistics are presented in ascending order, reflecting the contributions of each individual.
 
-![home](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/potato/home.png)
+![home](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/potato.php/home.png)
 
 
 - User Authentication:
@@ -39,7 +39,7 @@ Secure login system with username and hashed password authentication.
 Only authenticated users can make modifications to the chore schedule.
 
 
-![connec](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/potato/connexion.png)
+![connec](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/potato.php/connexion.png)
 
 
 - Schedule Modification:
@@ -53,7 +53,7 @@ After saving changes, the updated schedule is reflected in the yearly statistics
 Modifications to the schedule immediately update the statistics displayed on the homepage and other relevant pages.
 
 
-![mod](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/potato/modifier.png)
+![mod](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/potato.php/modifier.png)
 
 
 ### Technical Highlights:
@@ -71,6 +71,8 @@ The chore data, user information, and statistics are stored and retrieved seamle
 - Statistics Generation:
 
 The system calculates and displays yearly statistics in ascending order based on user contributions.
+
+MongoDB queries are used to perform the calculations and fetch the required data efficiently.
 
 Updates to the schedule automatically trigger recalculations and update the statistics.
 

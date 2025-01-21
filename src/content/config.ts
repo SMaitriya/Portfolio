@@ -20,7 +20,7 @@ const formation = defineCollection({
   }),
 })
 
-const stage = defineCollection({
+const exp = defineCollection({
   type: "content",
   schema: z.object({
     company: z.string(),
@@ -62,4 +62,4 @@ const legal = defineCollection({
   }),
 })
 
-export const collections = { work,stage,formation, blog, projects, legal }
+export const collections = { work,exp,formation, blog, projects, legal }

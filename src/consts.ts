@@ -28,7 +28,7 @@ export const BLOG: Page = {
 
 // Stage Page
 export const STAGE: Page = {
-  TITLE: "Internships",
+  TITLE: "Work experiences",
   DESCRIPTION: "mes stages",
 }
 
@@ -56,12 +56,12 @@ export const LINKS: Links = [
     TEXT: "Education",
     HREF: "/formation",
   },
-  {
+  /*{
     TEXT: "Experiences",
     HREF: "/work",
-  },
+  },*/
   {
-    TEXT: "Internships",
+    TEXT: "Experiences",
     HREF: "/stage",
   },
   {
