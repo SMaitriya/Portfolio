@@ -15,10 +15,10 @@ export const FORMATION: Page = {
 }
 
 // Work Page
-export const WORK: Page = {
+/*export const WORK: Page = {
   TITLE: "Work experiences",
   DESCRIPTION: "Places I have worked.",
-}
+}*/
 
 // Blog Page
 export const BLOG: Page = {
