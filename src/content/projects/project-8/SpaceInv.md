@@ -5,7 +5,6 @@ date: "Jan 02 2025"
 draft: false
 tags:
 - JAVA
-- JOGL
 - GAME DEVELOPMENT
 
 
