@@ -6,6 +6,7 @@ draft: false
 tags:
 - JAVA
 - SWING
+- GAME DEVELOPMENT
 
 
 
@@ -14,7 +15,7 @@ repoUrl : https://github.com/SMaitriya/SwingRpgProject
 ---
 
 
-- Swing Interface :
+## Swing Interface :
 
 The game begins by allowing the player to choose their character's name and select a class—Mage, Warrior, or Archer. Once the player has chosen their class, they can then purchase a starting weapon tailored to their class from a list of options.
 

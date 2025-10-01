@@ -2,7 +2,7 @@
 company: "Final year of Computer Science Bachelor's degree /  Licence professionnel : projet web et mobile"
 role: "Sorbonne Université"
 dateStart: "09/02/2024"
-dateEnd: "09/02/2025"
+dateEnd: "09/19/2025"
 ---
 
 <br>
@@ -11,8 +11,7 @@ dateEnd: "09/02/2025"
 
 
 
-
-This is my final year of my computer science bachelor's degree program at Sorbonne University, it will allow me to enhance my skills and advance my career as a full-stack developer.
+I completed my Bachelor's degree in Computer Science at Sorbonne University, which strengthened my skills and helped me move forward in my career as a full-stack developer.
 
 - Front-end Integration and Development
 - Graphic Design and Animation Tools
