@@ -1,7 +1,7 @@
 ---
 title: "E-Commerce Royal Crown"
 summary: "An online store built with Symfony featuring category navigation, shopping cart, authentication, and order confirmation."
-date: "Oct 1 2025"
+date: "Mar 25 2025"
 draft: false
 tags:
 - Symfony
@@ -23,49 +23,68 @@ The app also includes a **user account area** and an **admin back-office** for p
 
 ## Features
 
-### 🏠 Home Page
+### Home Page
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/home.png" width="200" style="display:inline-block; margin-right:10px;" />
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/home.png" />
 
----
-
-### 👟 Category Page
-
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/categorie.png" width="200" style="display:inline-block; margin-right:10px;" />
+The home page displays the two main product categories: **Elegance** and **Sport**.  
+Users can quickly navigate to a category and see highlighted products.
 
 ---
 
-### 📄 Product Page
+### Category Page
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/produit.png" width="200" style="display:inline-block; margin-right:10px;" />
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/categorie.png" />
 
----
-
-### 🛒 Cart
-
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/cart.png" width="200" style="display:inline-block; margin-right:10px;" />
+The category page shows all products within the selected category (Elegance or Sport).  
+Each product card displays the **image, name, price**.
 
 ---
 
-### 🔐 Authentication
+### Product Page
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/login.png" width="200" style="display:inline-block; margin-right:10px;" />
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/produit.png" />
 
----
-
-### ✅ Order Confirmation
-
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/confirmation.png" width="200" style="display:inline-block; margin-right:10px;" />
+The product page includes detailed **information about the product**, such as images, description and price.
+Users can select the desired quantity and **add the product to the cart**.
 
 ---
 
-## Admin Back-office
+### Cart
 
-- Create, edit, and delete products via a dedicated administrator panel
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/cart.png" />
+
+The cart page lists all added products.  
+Users can **update quantities**, **remove items**, and see a **summary of the total** including a **fixed shipping fee**.
+
+---
+
+### Order Confirmation
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/confirmation.png" />
+
+Once the order is placed, a confirmation page is displayed.  
+It includes a **delivery address** and estimated arrival notice.
+
+---
+
+### Authentication
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/login.png" />
+
+Users must **sign up or log in** to place an order.  
+The authentication system stores user information and delivery address.
+
+---
 
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/admin.png" width="200" style="display:inline-block; margin-right:10px;" />
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/modifier.png" width="200" style="display:inline-block; margin-right:10px;" />
+### Admin Back-office
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/admin.png" />
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/royalcrown/modifier.png" />
+
+The admin panel allows the administrator to **create, edit, and delete products**.  
+Product management is simplified with a clear interface and form validation.
 
 ---
 
@@ -74,4 +93,5 @@ The app also includes a **user account area** and an **admin back-office** for p
 - **PHP 8.2+ / Symfony 7.2.5**
 - **Tailwind CSS**
 - **Doctrine & Fixtures**
+- **MySQL**
 - **Sessions for cart & user handling**
