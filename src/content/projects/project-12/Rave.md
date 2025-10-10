@@ -1,47 +1,84 @@
 ---
 title: "Rave – Audio Recording & Transformation App"
 summary: "A React Native app built with Expo for recording audio, saving locally, uploading to a server, and applying fun sound transformations."
-date: "Oct 10 2025"
+date: "July 15 2025"
 draft: false
 tags:
 - React Native
-- Expo
-- Audio
 - Redux
 
 repoUrl: https://github.com/SMaitriya/Rave
-
 ---
 
 ## Project Overview
 
-**Rave** is a mobile application developed with **React Native** and **Expo**.  
-It allows users to **record audio**, save it locally, and transfer it to a server for processing.  
-Users can also **apply different sound models** (like jazz, cat, dog, etc.) to their recordings, offering a fun and creative experience.  
+**Rave** is a mobile application built with **React Native** and **Expo** that allows users to **record audio**, **manage their recordings**, and **send them to a server for sound transformation**.
 
-The app features an intuitive interface for **managing recordings**, including playback, deletion, and uploading to a remote server.
+Users can apply different **audio style models** (such as *Jazz*, *Cat*, *Dog*, etc.) to creatively modify their voice recordings.
 
 ---
 
 ## Features
 
-- High-quality audio recording via the microphone  
-- Save recordings locally with custom names  
-- Playback and pause functionality  
-- Safe deletion with confirmation  
-- Upload audio files to a remote server  
-- Transform recordings using selectable sound models (jazz, cat, dog, etc.)  
+- High-quality microphone recording  
+- Local storage with custom file naming  
+- ▶Playback & pause controls  
+- Secure deletion with confirmation  
+- Upload recordings to a remote server  
+- Apply AI-style transformation models (Jazz, Cat, Dog, etc.)
+
+---
+
+## App Screenshots
+
+### Server Connection Screen
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rave/home.jpg" width="200" />
+
+Users can configure the **server IP and port** where the audio will be sent for processing.
+
+---
+
+### Recording Screen
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rave/enregistrement.png" width="200" />
+
+Start a new recording and view your personal **library of saved audio files**, with playback and deletion options.
+
+---
+
+### Post-Recording Modal
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rave/enregistrementtest.png" width="200" />
+
+After recording, users can **rename**, **delete**, or **listen** before saving.
+
+---
+
+### Model Selection
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rave/model.png" width="200" />
+
+Choose which **transformation model** will be applied to the audio when sent to the server.
+
+---
+
+### Upload & Transformation
+
+<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/rave/envoiserv.png" width="200" />
+
+Select a file from **local storage**, **recordings**, or use a **default sample**, then **send to the server and listen to the transformed result.**
 
 ---
 
 ## Technologies
 
-- **React Native**  
-- **Expo SDK**  
-- `expo-audio` for recording and playback  
-- **Redux Toolkit + react-redux** for global state management  
-- `redux-persist` with AsyncStorage for data persistence  
-- `@expo/vector-icons` for icons  
-- React Navigation, React Native Gesture Handler, etc.  
+- **React Native** (UI & logic)
+- **Expo SDK**
+- `expo-audio` for recording & playback
+- **Redux Toolkit + react-redux** for state management
+- `redux-persist` + AsyncStorage for saving recordings
+- `@expo/vector-icons` for UI icons
+- React Navigation, Gesture Handler, etc.
 
 ---

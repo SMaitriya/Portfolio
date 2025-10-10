@@ -1,7 +1,7 @@
 ---
 title: "Iseek - Music Search & Collection App"
 summary: "A React Native app to search for artists and music via the iTunes API and save them in a personal collection"
-date: "Oct 1 2025"
+date: "Apr 1 2025"
 draft: false
 tags:
 - React Native

@@ -1,61 +1,57 @@
 ---
-title: "Dictionnaire de pays/villes"
-summary: "Gestion d'un dictionnaire des noms des pays avec leurs capitales en C#"
-date: "nov 25 2023"
+title: "Countries/Cities Dictionary"
+summary: "Management of a dictionary of countries and their capitals in C#"
+date: "Nov 25 2023"
 draft: false
 tags:
 - C#
 
-repoUrl : https://github.com/SMaitriya/Gestion-dictionnaire
+repoUrl: https://github.com/SMaitriya/Gestion-dictionnaire
 ---
 
-Ce projet propose un gestionnaire de dictionnaire de données en C# permettant de gérer les pays et leurs capitales de manière efficace et conviviale. L'interface offre une gamme de fonctionnalités permettant d'ajouter, de modifier, de supprimer, de trier et de rechercher des informations par nom de ville ou par nom de pays.
+This project is a **C# dictionary manager** that allows efficient and user-friendly management of countries and their capitals.  
+The interface offers a range of functionalities to **add, modify, delete, sort, and search** information by city name or country name.
 
+---
 
-- Création d'une interface
+- **Menu Interface**
 
 ![Menu](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/menu.png)
 
+---
 
+- **Example of adding a country with its capital and displaying it (options 1 and 2)**
 
-- Exemple d'alimentation du dictionnaire d'un pays avec sa capitale et affichage (choix 1 et 2) :
+![Options 1 and 2](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/choixunetdeux.png)
 
-![Choix 1 et 2](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/choixunetdeux.png)
+---
 
+- **Check if a city is a capital (option 6)**
 
+![Option 6](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/choixsix.png)
 
-- Vérifier si une ville est une capitale (choix 6) : 
+---
 
+- **Sort the dictionary by capital or by country (option 7)**
 
+![Option 7](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/choix7.png)
 
-![Choix 6](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/choixsix.png)
+---
 
+# CODE
 
+- **Menu Interface Code**
 
-- Trier le dictionnaire par capitale ou par pays (choix 7): 
+![Menu Code](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/codemenu.png)
 
+---
 
-![Choix 7](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/choix7.png)
+- **Handling choices with checkboxes**
 
+![Checkbox Handling](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/cases.png)
 
-<h1 style="text-align: center;">LE CODE</h1>
+---
 
+- **Updating a country's capital and searching for a country by a city**
 
-- Interface du menu :
-
-
-![Code Menu](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/codemenu.png)
-
-
-
-
-
-- Gestion des choix avec des cases :
-
-
-![Cases](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/cases.png)
-
-
-- Mise à jour de la capitale d'un pays et recherche du pays d'une capitale :
-
-![Code Mise à jour de la capitale et Recherche du pays d'une ville](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/caseajourchercher.png)
+![Update Capital & Search Country](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/projetdico/caseajourchercher.png)
