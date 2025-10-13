@@ -22,7 +22,7 @@ Users can apply different **audio style models** (such as *Jazz*, *Cat*, *Dog*, 
 
 - High-quality microphone recording  
 - Local storage with custom file naming  
-- ▶Playback & pause controls  
+- Playback & pause controls  
 - Secure deletion with confirmation  
 - Upload recordings to a remote server  
 - Apply AI-style transformation models (Jazz, Cat, Dog, etc.)
