@@ -6,7 +6,8 @@ dateEnd: "09/19/2025"
 ---
 
 <br>
-This internship marked the completion of my Bachelor's degree in Software Development. I collaborated closely with UX designers, translating Figma designs into functional code.
+
+During this internship I collaborated closely with UX designers, translating Figma designs into functional code.
 
 I worked in an international company that organizes congresses worldwide. My main task was to rebuild their website, making it more modern, user-friendly, and responsive.
 

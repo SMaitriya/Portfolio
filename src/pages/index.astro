@@ -91,9 +91,21 @@ const stack = [
           <p class='animated text-lg md:text-xl lg:text-2xl font-semibold opacity-75'>
             Hello, I am  Maitriya
           </p>
-          <p class='animated text-2xl md:text-3xl lg:text-4xl font-bold uppercase text-black dark:text-white'>
-            Web developper
-          </p>
+          <p class='text-2xl md:text-3xl lg:text-4xl font-bold uppercase text-black dark:text-white'>
+  <span id="typewriter"></span>
+  <span class="cursor" aria-hidden="true">|</span>
+</p>
+
+<style>
+  .cursor {
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes blink {
+    0%, 50% { opacity: 1; }
+    51%, 100% { opacity: 0; }
+  }
+</style>
           <p class='animated text-sm md:text-base lg:text-lg opacity-75'>
             
           </p>
@@ -260,5 +272,39 @@ const stack = [
   </div>
 
 
+<script>
+  let typewriterTimeout: ReturnType<typeof setTimeout> | null = null;
+  
+  function initTypewriter() {
+    const text = "Fullstack developper";
+    const el = document.getElementById("typewriter");
+    const speed = 100; // millisecondes par lettre
+    
+    if (!el) return;
+    
+    // Annuler l'animation précédente si elle existe
+    if (typewriterTimeout) {
+      clearTimeout(typewriterTimeout);
+    }
+    
+    // Réinitialiser le contenu
+    el.textContent = "";
+    let i = 0;
+    
+    function type() {
+      if (i < text.length && el) {
+        el.textContent += text.charAt(i);
+        i++;
+        typewriterTimeout = setTimeout(type, speed);
+      }
+    }
+    
+    // Démarrer l'animation
+    type();
+  }
+  
+  // Au chargement avec Astro
+  document.addEventListener("astro:page-load", initTypewriter);
+</script>
   
 </PageLayout>

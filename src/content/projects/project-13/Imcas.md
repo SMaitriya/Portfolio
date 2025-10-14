@@ -1,15 +1,13 @@
 ---
 title: "Front-End Development at IMCAS"
 summary: "Worked on the redesign of the IMCAS medical congress platform using Laravel Blade and TailwindCSS."
-date: "April 2025"
+date: "Sept 19 2025"
 draft: false
 tags:
 - Laravel
-- Blade
-- TailwindCSS
-- Front-End
+- Tailwind
+- Javascript
 
-company: IMCAS
 ---
 
 ## Overview
@@ -36,27 +34,29 @@ My main mission was to **translate Figma designs into a responsive, maintainable
 
 Below are some of the pages I worked on fully or contributed significantly to:
 
-- **<a href="https://www.imcas.com/en/worldwide-events" target="_blank" rel="noopener noreferrer">Worldwide Events</a>** – Developed responsive sections listing global congresses, using Blade loops for dynamic event cards.
+- **[Worldwide Events](https://www.imcas.com/en/worldwide-events)** – Developed responsive event sections with dynamic Blade loops.
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/events.png" /> 
+![Worldwide Events](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/events.png)
 
-- **<a href="https://www.imcas.com/en/scientific-partners" target="_blank" rel="noopener noreferrer">Scientific Partners</a>** – Integrated partner logos, categories, and filterable lists, respecting design hierarchy.
+- **[Scientific Partners](https://www.imcas.com/en/scientific-partners)** – Integrated partner logos and structured categories respecting design hierarchy.
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/partners.png" /> 
+![Scientific Partners](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/partners.png)
 
-- **<a href="https://www.imcas.com/en/aesthetic-confidence-index" target="_blank" rel="noopener noreferrer">Aesthetics Confidence Index</a>** – Built interactive content blocks and charts for displaying statistical data.
+- **[Aesthetics Confidence Index](https://www.imcas.com/en/aesthetic-confidence-index)** – Built responsive content blocks to display statistical data.
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/confidence.png" /> 
+![Aesthetics Confidence Index](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/confidence.png)
 
-- **<a href="https://www.imcas.com/en/imcas-world-congress-2026/report" target="_blank" rel="noopener noreferrer">Report</a>** – Implemented reusable chart components using Chart.js and Blade loops for dynamic datasets.
+- **[Report](https://www.imcas.com/en/imcas-world-congress-2026/report)** – Implemented reusable Chart.js components with dynamic datasets and responsive carousel.
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/report.png" /> 
+![Report](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/report.png)
 
-- **<a href="https://www.imcas.com/en/imcas-asia-2025/program/session/56073" target="_blank" rel="noopener noreferrer">Sessions</a>** – Structured session details, speaker info, and timelines responsively.
+- **[Sessions](https://www.imcas.com/en/imcas-asia-2025/program/session/56073)** – Structured session details, speaker info, and timelines responsively.
 
-<img src="https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/session.png" /> 
+![Sessions](https://raw.githubusercontent.com/SMaitriya/Portfolio/main/public/images/imcas/session.png)
 
-- **<a href="https://www.imcas.com/en/imcas-asia-2025/scientific-events/118" target="_blank" rel="noopener noreferrer">Highlights</a>** – Integrated image galleries, text overlays, and responsive card layouts.
+- **[Highlights](https://www.imcas.com/en/imcas-asia-2025/scientific-events/118)** – Integrated schedules into responsive card layouts for clear presentation.
+
+
 
 
 ---
